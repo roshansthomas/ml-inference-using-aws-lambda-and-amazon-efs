@@ -43,7 +43,8 @@ Here is a quick walkthrough of the demo:
 https://user-images.githubusercontent.com/56056673/131384905-4fc5cfbd-9251-4cbf-ba21-287808566073.mp4
 
 
-
+# Survey
+Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3fNc9oH4ql0guCq?Session=HAN6). Participants who complete the surveys from AWS Innovate Online Conference – AI/ML Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 31 March, 2022.
 
 
 
